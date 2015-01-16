@@ -1,0 +1,27 @@
+NAME
+    Task::Curses::UI - Install the Curses::UI modules.
+
+SYNOPSIS
+     cpanm Task::Curses::UI
+
+SEE ALSO
+    Curses::UI, Curses::UI::DelimitedTextViewer, Curses::UI::Grid::Cell,
+    Curses::UI::Mousehandler::GPM, Curses::UI::Number, Curses::UI::POE,
+    Curses::UI::Time, Curses::UI::Volume.
+
+REPOSITORY
+    <https://github.com/tupinek/Task-Curses-UI>
+
+AUTHOR
+    Michal Špaček <mailto:skim@cpan.org>
+
+    <http://skim.cz>
+
+LICENSE AND COPYRIGHT
+     © 2015 Michal Špaček
+     Artistic License
+     BSD 2-Clause License
+
+VERSION
+    0.01
+
