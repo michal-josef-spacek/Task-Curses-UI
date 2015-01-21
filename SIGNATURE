@@ -1,0 +1,47 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.70.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 69e13db48e6b5741b27ff568dfba9976a5e2910b Changes
+SHA1 fda23a0b314432c4a81e8d7beb5290e9f0219c73 LICENSE
+SHA1 089079819e5879dc7c8587d4b3c831c2049f42e5 MANIFEST
+SHA1 8f72310a4b97067615b0a42868668306095b23fe META.yml
+SHA1 a7f647b2cca0e8c25e4a03823fcd0bb9777197b2 Makefile.PL
+SHA1 aaa066d88a58e7dc7264439c1097bfd0d6c08602 README
+SHA1 8d78e84078b165f5c525768a331f263c787074a3 UI.pm
+SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
+SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
+SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
+SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
+SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
+SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
+SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
+SHA1 4add860581ffacd3882a8d856fb9cab354becad0 t/Task-Curses-UI/00-use.t
+SHA1 72bc31af447828c8c5b4ae7c20a64235f553260c t/Task-Curses-UI/01-version.t
+SHA1 656fec5e0e40a3334f76c2c9be1e8c69c8649bc1 t/Task-Curses-UI/02-pod_coverage.t
+SHA1 f6d891ad9b14918a359e2876de26f1b3cdca4385 t/Task-Curses-UI/03-pod.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJUv0uVAAoJEJe+XXKaIuTls48H/2/adLRTuKouAZtq6d2F5/np
+2Ezc3QpGzDipJQJ4O45HycfcwLOK/GLy7HcMS+Er0J60CTwDdL46kHawaoWL5y5E
+tZ4j00rgGICBChUQuYwmz021p0KzZv/uIlhnz1EpchoF6eohWTnvco0/ZiAMAy3Z
+FXsTOBgRX3uDmO0JR+BTFzXOhiGmSvhF91QGWkpG4EVECDg7rRuReVUno9qj4Lqt
+KrFhx1kkqSdrL+Pe45mnyZxqjNnjtrJ8nQ3w4EabppifWKXkvYYvPwB3hY+qLnvc
+FZNkOYSB2fEdLzz48nlT5hxKi7YuTvEt2KA4kAf2zSruMH45cFDUDkg/5vPb49Y=
+=efwY
+-----END PGP SIGNATURE-----
