@@ -5,9 +5,21 @@ SYNOPSIS
      cpanm Task::Curses::UI
 
 SEE ALSO
-    Curses::UI, Curses::UI::DelimitedTextViewer, Curses::UI::Grid::Cell,
-    Curses::UI::Mousehandler::GPM, Curses::UI::Number, Curses::UI::POE,
-    Curses::UI::Time, Curses::UI::Volume.
+    Curses::UI, Curses::UI::Buttonbox, Curses::UI::Calendar,
+    Curses::UI::Checkbox, Curses::UI::Color, Curses::UI::Common,
+    Curses::UI::Container, Curses::UI::DelimitedTextViewer,
+    Curses::UI::Dialog::Basic, Curses::UI::Dialog::Calendar,
+    Curses::UI::Dialog::Dirbrowser, Curses::UI::Dialog::Error,
+    Curses::UI::Dialog::Filebrowser, Curses::UI::Dialog::Progress,
+    Curses::UI::Dialog::Question, Curses::UI::Dialog::Status,
+    Curses::UI::Grid, Curses::UI::Grid::Cell, Curses::UI::Grid::Row,
+    Curses::UI::Label, Curses::UI::Listbox, Curses::UI::Menubar,
+    Curses::UI::Notebook, Curses::UI::Mousehandler::GPM, Curses::UI::Number,
+    Curses::UI::PasswordEntry, Curses::UI::POE, Curses::UI::Popupmenu,
+    Curses::UI::Progressbar, Curses::UI::Radiobuttonbox,
+    Curses::UI::Searchable, Curses::UI::TextEditor, Curses::UI::TextEntry,
+    Curses::UI::TextViewer, Curses::UI::Time, Curses::UI::Tutorial,
+    Curses::UI::Volume, Curses::UI::Widget, Curses::UI::Window.
 
 REPOSITORY
     <https://github.com/tupinek/Task-Curses-UI>
