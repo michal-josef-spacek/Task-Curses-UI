@@ -27,7 +27,7 @@ no_index:
 requires:
   Curses::UI: 0.9609
   Curses::UI::DelimitedTextViewer: 0.1
-  Curses::UI::Grid::Cell: 0.15
+  Curses::UI::Grid: 0.15
   Curses::UI::Mousehandler::GPM: 0.01
   Curses::UI::Number: 0.05
   Curses::UI::POE: 0.04

@@ -13,7 +13,7 @@ name 'Task-Curses-UI';
 readme_from 'UI.pm';
 requires 'Curses::UI' => 0.9609;
 requires 'Curses::UI::DelimitedTextViewer' => 0.10;
-requires 'Curses::UI::Grid::Cell' => 0.15;
+requires 'Curses::UI::Grid' => 0.15;
 requires 'Curses::UI::Mousehandler::GPM' => 0.01;
 requires 'Curses::UI::Number' => 0.05;
 requires 'Curses::UI::POE' => 0.04;
