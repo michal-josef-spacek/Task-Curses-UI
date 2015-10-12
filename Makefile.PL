@@ -8,9 +8,16 @@ use inc::Module::Install;
 # Definition.
 abstract 'Install the Curses::UI modules.';
 author 'Michal Spacek <skim@cpan.org>';
+author_requires 'English' => 0;
+author_requires 'File::Object' => 0.08;
+author_requires 'Test::More' => 0;
+author_requires 'Test::NoWarnings' => 0;
+author_requires 'Test::Pod' => 0;
+author_requires 'Test::Pod::Coverage' => 0;
 license 'bsd';
 name 'Task-Curses-UI';
 readme_from 'UI.pm';
+recursive_author_tests('xt');
 requires 'Curses::UI' => 0.9609;
 requires 'Curses::UI::DelimitedTextViewer' => 0.10;
 requires 'Curses::UI::Grid' => 0.15;
@@ -24,12 +31,8 @@ resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Task-Curses-UI';
 resources 'homepage' => 'https://github.com/tupinek/Task-Curses-UI';
 resources 'repository' => 'git://github.com/tupinek/Task-Curses-UI';
-test_requires 'English' => 0;
-test_requires 'File::Object' => 0.08;
 test_requires 'Test::More' => 0;
 test_requires 'Test::NoWarnings' => 0;
-test_requires 'Test::Pod' => 0;
-test_requires 'Test::Pod::Coverage' => 0;
 tests_recursive;
 version '0.02';
 
