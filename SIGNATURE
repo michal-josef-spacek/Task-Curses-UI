@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.70.
+signed via the Module::Signature module, version 0.79.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,34 +14,36 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 69e13db48e6b5741b27ff568dfba9976a5e2910b Changes
+SHA1 cca7a9aa60798ac7adfc9c189bb8bbb8b5d6e202 Changes
 SHA1 fda23a0b314432c4a81e8d7beb5290e9f0219c73 LICENSE
-SHA1 089079819e5879dc7c8587d4b3c831c2049f42e5 MANIFEST
-SHA1 8f72310a4b97067615b0a42868668306095b23fe META.yml
-SHA1 a7f647b2cca0e8c25e4a03823fcd0bb9777197b2 Makefile.PL
-SHA1 aaa066d88a58e7dc7264439c1097bfd0d6c08602 README
-SHA1 8d78e84078b165f5c525768a331f263c787074a3 UI.pm
-SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
-SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
-SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
-SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
-SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
-SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 d98d8ab2aec2146356fffcd11e9d0e105f211a07 MANIFEST
+SHA1 a16a3a6049ee456c8420294e08a800aa6b2015f4 META.yml
+SHA1 f722ad8dd44aa6e9d44f76f3c1d7d31dbb8cb8e6 Makefile.PL
+SHA1 88ea0cf0e25ffb604fea851b31056dc297bef2e6 README
+SHA1 2648ffdb634a25998bc7881ed3112479cd771c3b UI.pm
+SHA1 bce3c51bb369419603298064b78e14077b93af66 inc/Module/Install.pm
+SHA1 5c1a9d3a384a5262cbc105ab76d446047904c7fa inc/Module/Install/AuthorRequires.pm
+SHA1 d001b4b9a48395a8c4134b234a0e1789138427c5 inc/Module/Install/AuthorTests.pm
+SHA1 fe220f215f645500ce8f14ff5e19d9a28692af56 inc/Module/Install/Base.pm
+SHA1 b56ed8e42c600e08007d152cf0b1438a7c3b7f6e inc/Module/Install/Can.pm
+SHA1 99c531a17a67ce5250df2ae151cc48c80d914cde inc/Module/Install/Fetch.pm
+SHA1 76efdca3603159e0ae0e18f19fe72a0211a69529 inc/Module/Install/Makefile.pm
+SHA1 2e33e87882d60db3913da6284dd5295e5315e18a inc/Module/Install/Metadata.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
-SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
-SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
-SHA1 4add860581ffacd3882a8d856fb9cab354becad0 t/Task-Curses-UI/00-use.t
-SHA1 72bc31af447828c8c5b4ae7c20a64235f553260c t/Task-Curses-UI/01-version.t
-SHA1 656fec5e0e40a3334f76c2c9be1e8c69c8649bc1 t/Task-Curses-UI/02-pod_coverage.t
-SHA1 f6d891ad9b14918a359e2876de26f1b3cdca4385 t/Task-Curses-UI/03-pod.t
+SHA1 c830b819e61bda5eca077c6291293bba61b3b9f2 inc/Module/Install/Win32.pm
+SHA1 cb52b9d6f88d512d448a6f35ed0af0d1201a134b inc/Module/Install/WriteAll.pm
+SHA1 4add860581ffacd3882a8d856fb9cab354becad0 t/Task-Curses-UI/01-use.t
+SHA1 d599f24f4a2a7f7ad38453321fae885ce5231553 t/Task-Curses-UI/02-version.t
+SHA1 656fec5e0e40a3334f76c2c9be1e8c69c8649bc1 xt/Task-Curses-UI/01-pod_coverage.t
+SHA1 f6d891ad9b14918a359e2876de26f1b3cdca4385 xt/Task-Curses-UI/02-pod.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.12 (GNU/Linux)
+Version: GnuPG v1
 
-iQEcBAEBAgAGBQJUv0uVAAoJEJe+XXKaIuTls48H/2/adLRTuKouAZtq6d2F5/np
-2Ezc3QpGzDipJQJ4O45HycfcwLOK/GLy7HcMS+Er0J60CTwDdL46kHawaoWL5y5E
-tZ4j00rgGICBChUQuYwmz021p0KzZv/uIlhnz1EpchoF6eohWTnvco0/ZiAMAy3Z
-FXsTOBgRX3uDmO0JR+BTFzXOhiGmSvhF91QGWkpG4EVECDg7rRuReVUno9qj4Lqt
-KrFhx1kkqSdrL+Pe45mnyZxqjNnjtrJ8nQ3w4EabppifWKXkvYYvPwB3hY+qLnvc
-FZNkOYSB2fEdLzz48nlT5hxKi7YuTvEt2KA4kAf2zSruMH45cFDUDkg/5vPb49Y=
-=efwY
+iQEcBAEBAgAGBQJWHAOkAAoJEJe+XXKaIuTl7c0H/26wuDb1tpxEyi69rZzofIU/
+zvsvtqHuDXj4Fy5DxdXTp635D87lCUO+anaWXTi9yB0kP0WaU37H48/3FVYImyCn
+eKCEr9zQU8OK0zsuqnrROq/smm4M5f+lkezEq0jXnPsriHxYXX5aKpOYPCqVmm4T
+DYGqP1TmaqnHXSGASjSEMboApmIiv+DXUt5ij+NOjrSZYJba1ieHRh+YQy2XnLTQ
+MbUizX3MYYTegrgZjE/bDRfA8VlbADyV/f2jsZwnJm/ihtfWXp1HsSHAYXZrY/o9
+BeOkOMMWC8ETzUiaWb38pBliipe3V52cReZQPh/m4FwUV7z4hlImZyXPs43frmc=
+=2Si9
 -----END PGP SIGNATURE-----
