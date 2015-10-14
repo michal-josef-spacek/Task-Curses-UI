@@ -29,7 +29,7 @@ requires:
   Curses::UI::Number: 0.06
   Curses::UI::POE: 0.04
   Curses::UI::Time: 0.05
-  Curses::UI::Volume: 0.01
+  Curses::UI::Volume: 0.02
   perl: 5.6.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-Curses-UI
