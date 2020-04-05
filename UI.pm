@@ -1,10 +1,8 @@
 package Task::Curses::UI;
 
-# Pragmas.
 use strict;
 use warnings;
 
-# Version.
 our $VERSION = 0.04;
 
 1;
