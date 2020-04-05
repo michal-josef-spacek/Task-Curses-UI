@@ -185,7 +185,7 @@ Create and manipulate Window widgets
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Task-Curses-UI>
+L<https://github.com/michal-josef-spacek/Task-Curses-UI>
 
 =head1 AUTHOR
 
