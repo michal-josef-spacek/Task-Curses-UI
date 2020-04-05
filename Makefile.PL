@@ -18,6 +18,7 @@ name 'Task-Curses-UI';
 readme_from 'UI.pm';
 recursive_author_tests('xt');
 requires 'Curses::UI' => 0.9609;
+requires 'Curses::UI::AnyEvent' => 0.101;
 requires 'Curses::UI::DelimitedTextViewer' => 0.10;
 requires 'Curses::UI::Grid' => 0.15;
 requires 'Curses::UI::Mousehandler::GPM' => 0.01;

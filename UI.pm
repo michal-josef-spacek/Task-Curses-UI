@@ -29,6 +29,10 @@ Task::Curses::UI - Install the Curses::UI modules.
 
 A curses based OO user interface framework
 
+=item L<Curses::UI::AnyEvent>
+
+Sub-class of Curses::UI for AnyEvent
+
 =item L<Curses::UI::Buttonbox>
 
 Create and manipulate button widgets
