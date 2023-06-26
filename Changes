@@ -1,3 +1,5 @@
+0.06
+
 0.05 2023-06-26T09:44:44+02:00
  - Add Curses::UI::Char.
  - Update Curses::UI::Number to 0.07.
