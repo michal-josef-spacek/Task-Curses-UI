@@ -28,7 +28,7 @@ requires:
   Curses::UI::DelimitedTextViewer: 0.1
   Curses::UI::Grid: 0.15
   Curses::UI::Mousehandler::GPM: 0.01
-  Curses::UI::Number: 0.06
+  Curses::UI::Number: 0.07
   Curses::UI::POE: 0.04
   Curses::UI::Time: 0.05
   Curses::UI::Volume: 0.02
