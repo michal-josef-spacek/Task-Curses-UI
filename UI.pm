@@ -41,6 +41,10 @@ Create and manipulate button widgets
 
 Create and manipulate calendar widgets
 
+=item L<Curses::UI::Char>
+
+Create and manipulate character widgets.
+
 =item L<Curses::UI::Checkbox>
 
 Create and manipulate checkbox widgets

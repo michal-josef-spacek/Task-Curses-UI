@@ -17,6 +17,9 @@ SEE ALSO
     Curses::UI::Calendar
         Create and manipulate calendar widgets
 
+    Curses::UI::Char
+        Create and manipulate character widgets.
+
     Curses::UI::Checkbox
         Create and manipulate checkbox widgets
 

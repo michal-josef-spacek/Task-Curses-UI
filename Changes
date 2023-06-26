@@ -1,4 +1,5 @@
 0.05
+ - Add Curses::UI::Char.
 
 0.04 2020-04-05T15:17:10+02:00
  - Add Curses::UI::AnyEvent.
