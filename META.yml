@@ -24,7 +24,7 @@ no_index:
 requires:
   Curses::UI: 0.9609
   Curses::UI::AnyEvent: 0.101
-  Curses::UI::Char: 0.01
+  Curses::UI::Char: 0.02
   Curses::UI::DelimitedTextViewer: 0.1
   Curses::UI::Grid: 0.15
   Curses::UI::Mousehandler::GPM: 0.01
