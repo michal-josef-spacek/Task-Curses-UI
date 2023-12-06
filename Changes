@@ -1,4 +1,4 @@
-0.06
+0.06 2023-12-06T12:27:19+01:00
  - Move bugtracker to github.
  - Update Curses::UI::Char to 0.02 version.
  - Update Curses::UI::Volume to 0.04 version.
