@@ -1,3 +1,5 @@
+0.07
+
 0.06 2023-12-06T12:27:19+01:00
  - Move bugtracker to github.
  - Update Curses::UI::Char to 0.02 version.
